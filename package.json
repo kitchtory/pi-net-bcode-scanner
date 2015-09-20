@@ -1,0 +1,16 @@
+{
+  "name": "pi-scanner",
+  "version": "0.1.0",
+  "description": "",
+  "main": "scanner.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.8.1",
+    "node-usb-barcode-scanner": "^1.0.0",
+    "request": "^2.62.0"
+  }
+}
